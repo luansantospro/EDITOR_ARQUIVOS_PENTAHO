@@ -1,0 +1,7 @@
+jdbc:postgresql://localhost:5432/db_antigo => jdbc:postgresql://localhost:5432/db_novo
+luminous => avadakadabra
+apple. => ape.  
+cafedefresco => estagiario 
+DIM_DL_SOLAMAR => DIM_DL_SOL  
+TAB_RECORECO => TAB_REC
+teste teste
