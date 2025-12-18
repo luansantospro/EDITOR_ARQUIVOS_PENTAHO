@@ -1,2 +1,0 @@
-jdbc:postgresql://localhost:5432/db_antigo => jdbc:postgresql://localhost:5432/db_novo
-schema_antigo => schema_novo
